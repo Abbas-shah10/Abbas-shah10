@@ -92,13 +92,10 @@ I am a Front End Developer and skills in Html,css and Js also React I know some 
 
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="http://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:your.abbaskhanshah10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="http://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
----
-
-⭐️ From [Abbas](https://github.com/Abbas-shah10)
