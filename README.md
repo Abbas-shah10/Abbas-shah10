@@ -30,14 +30,6 @@
 
 ---
 
-### 🌐 Connect With Me
-- Email: [Abbas_shah](abbaskhanshah10@gmail.com)  
-
----
-
-⭐️ From [Abbas_shah](https://github.com/Abbas-shah10)
-
-
 You said:
 I am a Front End Developer and skills in Html,css and Js also React I know some programming languages like c++ and python create me a readme.md for my github profile add images and styles.
 
