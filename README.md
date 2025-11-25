@@ -1,101 +1,43 @@
-# Hi there 👋, I'm Abbas
-
-💻 **Front End Developer** | 🌐 **Web Enthusiast** | ⚡ **Problem Solver**
-
----
-
-### 🚀 About Me
-- 🔭 I specialize in building **modern, responsive, and user-friendly web applications**.  
-- 🌱 Currently expanding my skills in **TypeScript** and **Next.js**.  
-- 💡 Love to solve problems using **C++** and **Python** in addition to web development.  
-- ⚡ Passionate about **clean UI/UX**, performance optimization, and writing maintainable code.  
-
----
-
-### 🛠️ Tech Stack
-
-#### **Frontend**
-- HTML, CSS, JavaScript  
-- React.js  
-- Tailwind CSS, Bootstrap  
-
-#### **Programming Languages**
-- C++  
-- Python  
-
-#### **Currently Exploring**
-- Next.js  
-- TypeScript  
-- Node.js  
-
----
-
-You said:
-I am a Front End Developer and skills in Html,css and Js also React I know some programming languages like c++ and python create me a readme.md for my github profile add images and styles.
-
-
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Abbas</h1>
-<h3 align="center">💻 Front End Developer | 🌐 Web Enthusiast | ⚡ Problem Solver</h3>
-
----
-
-<!-- Banner / GIF -->
+<!-- banner / hero -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/Abbas-shah10/Abbas-shah10/master/header-image.png" alt="header" width="100%" />
 </p>
 
----
-
-## 🚀 About Me  
-- 🔭 I build **modern, responsive, and user-friendly web apps**  
-- 🌱 Currently learning **Next.js** & **TypeScript**  
-- 💡 Problem-solving with **C++** & **Python**  
-- ⚡ Passionate about **UI/UX, performance optimization & clean code**  
-
----
-
-## 🛠️ Tech Stack  
-
-### **Frontend**  
-<p align="left">
-  <img src ="https://skillicons.dev/icons?i=js,html,css" />
-   <img src="https://skillicons.dev/icons?i=react" />
-  <img src="http://skillicons.dev/icons?i=tailwind" />
-</p>
-
-### **Programming Languages**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### **Currently Exploring**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=next" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
----
-
-## 📊 GitHub Stats  
+<h1 align="center">Hi 👋, I'm Your Name (Abbas Shah)</h1>
+<p align="center">Developer & Building web apps & teaching dev</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-shah10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas-shah10&theme=vue-dark&hide_border=true" />
+  <!-- Social links -->
+  <a href="https://github.com/Abbas-shah10">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:abbaskhanshah10@gmail.com.com">Email</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🔭 Pinned Projects
+<!-- Create small “cards” by linking repos and giving a one-line description -->
+- [HTML-CSS-JavaScript-100-Projects](https://github.com/Abbas-shah10/testimonial-grid ) — Build a testtimonial grid
+- [THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET](https://github.com/Abbas-shah10/React/) — React project
+- [MERN-E-Commerce-Store](https://github.com/Abbas-shah10/html-Css-Js-Projects) — Build Html, css and Js projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="http://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:your.abbaskhanshah10@gmail.com">
-    <img src="http://skillicons.dev/icons?i=gmail"/>
-  </a>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <!-- Replace YOUR_USERNAME in these URLs; they point to public badge services -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abbas-shah10&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-shah10&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
+---
+
+## 🔗 More
+- ⭐️ I star open-source projects I find useful
+- 📫 Reach me: you@example.com
+- ⚡ Fun fact: I enjoy building teaching content for devs
+
+<!-- visitor counter (optional) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile views" />
+</p>
