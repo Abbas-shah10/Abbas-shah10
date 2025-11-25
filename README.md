@@ -17,9 +17,9 @@
 
 ## 🔭 Pinned Projects
 <!-- Create small “cards” by linking repos and giving a one-line description -->
-- [HTML-CSS-JavaScript-100-Projects](https://github.com/Abbas-shah10/testimonial-grid ) — Build a testtimonial grid
-- [THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET](https://github.com/Abbas-shah10/React/) — React project
-- [MERN-E-Commerce-Store](https://github.com/Abbas-shah10/html-Css-Js-Projects) — Build Html, css and Js projects
+- [testimonial-grid](https://github.com/Abbas-shah10/testimonial-grid ) — Build a testimonial grid
+- [React](https://github.com/Abbas-shah10/React/) — React project
+- [html-Css-Js-Projects](https://github.com/Abbas-shah10/html-Css-Js-Projects) — Build Html, css and Js projects
 
 ---
 
