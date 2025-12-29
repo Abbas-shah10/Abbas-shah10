@@ -11,6 +11,16 @@
 
 🌱 Currently improving my TypeScript, and Next.js, skills
 
+<h3 align="left">🛠️ Tech Stack</h3>
+
+Languages: JavaScript, TypeScript, Python, C++
+
+Frontend: React, Next.js, Tailwind CSS, HTML, CSS
+
+Backend: Node.js, Express, MongoDB, MySQL
+
+Tools & Platforms: Git, GitHub, VS Code, Linux
+
 - 📫 How to reach me **abbaskhanshah10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
