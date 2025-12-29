@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abbas-shah10</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React**
+- 🚀 About Me
 
-- 💬 Ask me about **react**
+💻 I enjoy building full‑stack apps and automating workflows
+
+📚 Always learning new tools, frameworks, and best practices
+
+🤖 Exploring AI integrations and developing productivity tools
+
+🌱 Currently improving my TypeScript, and Next.js, skills
 
 - 📫 How to reach me **abbaskhanshah10@gmail.com**
 
