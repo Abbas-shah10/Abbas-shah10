@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbas-shah10</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Abbas-shah10</h1>
 
 <h3 align="left">🚀 About Me</h3>
 
