@@ -21,9 +21,8 @@ Backend: Node.js, Express, MongoDB, MySQL
 
 Tools & Platforms: Git, GitHub, VS Code, Linux
 
-- 📫 How to reach me **abbaskhanshah10@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+  - 📫 How to reach me **abbaskhanshah10@gmail.com**
 <p align="left">
 </p>
 
