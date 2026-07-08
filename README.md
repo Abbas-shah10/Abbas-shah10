@@ -1,4 +1,4 @@
-# Hey, I'm Abbas 👋
+# Hey, I'm Muhmmad Abbas 👋
 
 **MERN Stack Developer · I build full-stack web apps that solve real problems.**
 
