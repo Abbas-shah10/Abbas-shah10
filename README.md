@@ -67,14 +67,6 @@ A real-time messaging application built with the MERN stack. Supports user authe
 
 `react` `node.js` `express` `mongodb` `socket.io`
 
----
-
-### 📊 GitHub Stats
-
-![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-shah10&show_icons=true&theme=graywhite&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-shah10&layout=compact&theme=graywhite&size_weight=0.5&count_weight=0.5)
-
----
 
 ### 📬 Get in Touch
 
