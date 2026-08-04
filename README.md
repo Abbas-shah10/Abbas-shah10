@@ -41,33 +41,6 @@ Computer Science student at the University of Swat. I build full-stack applicati
 
 ---
 
-### 📌 Featured Projects
-
-#### [Blog App](https://github.com/Abbas-shah10/blog-app)
-
-A full-stack blog platform with user registration, JWT-based authentication, and protected post creation. The backend runs on Node.js/Express with Sequelize ORM and MySQL, while the frontend is built with React, Vite, Zustand, and Tailwind CSS. Features include account creation, secure login, post browsing, and a clean responsive UI.
-
-`react` `node.js` `express` `mysql` `sequelize` `jwt` `tailwind`
-
-#### [Storage Management App](https://storage-management-taupe.vercel.app/sign-up)
-
-A data organization solution that lets users manage storage items efficiently. Built with a React frontend and a Node.js/Express backend with MongoDB. Features JWT-based authentication, CRUD operations, and a clean dashboard interface. Deployed live on Vercel.
-
-`react` `node.js` `express` `mongodb` `jwt`
-
-#### [Weather Dashboard](https://github.com/Abbas-shah10/weather-dashboard)
-
-A responsive weather dashboard that displays real-time weather data for any city worldwide. Built with React and Tailwind CSS — focused on clean UI, fast load times, and mobile-first design. Data is fetched from a public weather API.
-
-`react` `tailwind` `api` `responsive`
-
-#### [Chat App](https://github.com/Abbas-shah10/chat-app)
-
-A real-time messaging application built with the MERN stack. Supports user authentication, one-on-one messaging, and a clean chat interface. Work in progress — adding WebSocket support for real-time updates.
-
-`react` `node.js` `express` `mongodb` `socket.io`
-
-
 ### 📬 Get in Touch
 
 I'm actively looking for internship opportunities and freelance work. Let's talk.
