@@ -13,7 +13,6 @@
 
 Computer Science student at the University of Swat. I build full-stack applications with the MERN stack — from authentication and databases to responsive UIs and deployment.
 
-- 🔭 **Working on**: A [blog app](https://github.com/Abbas-shah10/blog-app) with JWT auth, Sequelize ORM, and a React frontend
 - 🌱 **Learning**: Next.js — aiming to build SSR apps and explore the App Router
 - 🤝 **Open to**: Internship roles and freelance projects
 - ⚡ **Fun fact**: I automate everything I can, including my coffee order (okay, almost everything)
