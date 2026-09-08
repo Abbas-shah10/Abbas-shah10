@@ -1,10 +1,5 @@
 # Hey, I'm Muhammad Abbas 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="MERN Stack Developer" />
-  <img src="https://shields.io" alt="Open to Work" />
-</p>
-
 ### **MERN Stack Developer · Building full-stack web applications that solve real-world problems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abbas-khan-58a7673b4)
@@ -28,25 +23,19 @@ I am a Computer Science student at the **University of Swat**, specializing in f
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript" />
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   
   <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://shields.io" alt="Express" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://shields.io" alt="MySQL" />
   
   <!-- Tools -->
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="Vercel" />
 </p>
 
 | Category | Technologies |
@@ -72,13 +61,6 @@ I am a Computer Science student at the **University of Swat**, specializing in f
 * **Links**: [Live Demo](https://your-live-link.com) · [GitHub Code](https://github.com)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="Abbas's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
 
 ---
 
