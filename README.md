@@ -53,7 +53,7 @@ I am a Computer Science student at the **University of Swat**, specializing in f
 #### 📂 **Feedback Full Stack App**
 * **Description**: A full-stack feedback application built with Next.js, Tailwind CSS, and MongoDB. The app allows users to submit, browse, and manage product feedback, supporting CRUD operations on feedback entries, threaded comments and replies, upvote/downvote mechanics, and filtering by category or sort order. The frontend leverages Next.js App Router for server-side rendering and API routes, styled with Tailwind CSS for a responsive, modern UI, while MongoDB (via Mongoose) handles persistent storage of feedback records, comments, and user interactions.
 * **Tech Stack**: MongoDB, Express,Next.js, Node.js, Tailwind CSS
-* **Links**: [Live Demo](https://feedback-dun-five.vercel.app/sign-in) · [GitHub Code](https://github.com/Abbas-shah10/Abbas-shah10/)
+* **Links**: [Live Demo](https://feedback-dun-five.vercel.app/sign-in) · [GitHub Code](https://github.com/Abbas-shah10/feedback)
 
 #### 📂 **Project Name Two**
 * **Description**: A brief 1-2 sentence breakdown of what real-world problem this application solves.
