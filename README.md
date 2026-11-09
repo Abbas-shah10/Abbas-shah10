@@ -62,7 +62,6 @@ I am a Computer Science student at the **University of Swat**, specializing in f
 
 ---
 
----
 
 ### 📬 Get in Touch
 
